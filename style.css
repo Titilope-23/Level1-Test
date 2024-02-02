@@ -1,0 +1,61 @@
+.bgimage{
+    background-image: url(img/image\ 12.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 150vh;
+    width: 100%;
+}
+.navbar{
+    position: fixed;
+    opacity: 2;
+    background-color: white;
+
+}
+.imageword{
+    margin-left: 10%;
+    padding-top: 10%;
+}
+.imageword h1{
+color: white;
+}
+.imageword p{
+    color: white;
+    }
+    .but button{
+        color: white;
+        background-color: aqua;
+        border: none;
+        border-radius: 2px;
+        }
+        .but{
+            display: flex;
+            margin-top: 5%;
+        }
+        .but a{
+            margin-left: 5%;
+            text-decoration: none;
+            color: white;
+        }
+        .whitebox{
+            background-color: white;
+            height: 20vh;
+            width: 100%;
+        }
+        .whitebox img{
+            height: 15vh;
+            width: 60%;
+            margin: 2% 20%;
+        }
+        .blackbox{
+            height: 50vh;
+            width: 100%;
+            background-color: black;
+        }
+        .blackboxflex{
+            display: flex;
+            gap: 2%;
+          height: 30vh;
+          margin-left: 10%;
+          
+          
+        }
